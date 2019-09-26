@@ -1,6 +1,8 @@
 body {
+  padding: 100px 0 100px 0;
   font-family: 'Mansalva', cursive;
   text-align: center;
+  background-color: gray;
 }
 
 h1 {
