@@ -3,6 +3,7 @@ body {
   font-family: 'Mansalva', cursive;
   text-align: center;
   background-color: gray;
+  display: flex;
 }
 
 h1 {

@@ -1,3 +1,2 @@
 autoprefixer-cli -o main.prefixed.css css/style.css
-
-checker.validate([ 'index.html' ])
+nu-html-checker index.html
